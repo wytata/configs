@@ -639,7 +639,6 @@ require("autoclose").setup({
         ["}"] = { escape = true, close = false, pair = "{}" },
 
         ['"'] = { escape = true, close = true, pair = '""' },
-        ["'"] = { escape = true, close = true, pair = "''" },
         ["`"] = { escape = true, close = true, pair = "``" },
      },
      options = {

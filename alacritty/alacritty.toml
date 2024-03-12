@@ -1,0 +1,18 @@
+[window]
+opacity = 1
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
+
+[window.padding]
+x = 5
+y = 5
+
+[colors.primary]
+background = "#11121d"
+foreground = "#a9b1d6"
+
+[font]
+normal = {family = "Jetbrains Mono Nerd Font", style = "Medium"}
+size = 10.5
