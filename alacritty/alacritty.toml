@@ -15,4 +15,4 @@ foreground = "#a9b1d6"
 
 [font]
 normal = {family = "Jetbrains Mono Nerd Font", style = "Medium"}
-size = 10.5
+size = 15
